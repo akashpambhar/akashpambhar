@@ -4,7 +4,7 @@
 
 - 👯 I’m available to collaborate on **Web Apps, Automation, Backend development**
 
-- 🤝 I’m looking for **freelance work**
+- 🤝 I’m looking for **Freelance work & Remote Job**
 
 - 💬 Ask me about **Java, Spring, Python, Node.js**
 
