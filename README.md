@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Java, Spring, Python, Node.js**
 
-- 📫 How to reach me **akash.pambhar@yahoo.com**, **[View Portfolio](https://adiths-inc.github.io/)**
+- 📫 How to reach me **akash.pambhar@yahoo.com**, **[Visit Website](https://www.adiths.in)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
